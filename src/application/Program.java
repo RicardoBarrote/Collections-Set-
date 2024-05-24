@@ -41,8 +41,7 @@ public class Program {
 		System.out.println();
 		System.out.println("Convidados: ");
 		conjuntoconvidado.exibirConvidados();
-		
-		
+		System.out.println("Código terminado. ");
 		sc.close();
 	}
 
